@@ -1,0 +1,33 @@
+>class,zm_mod_level
+>group,modtools
+
+xmodel,skybox_default_day
+material,luts_t7_default
+	
+// BSP
+col_map,maps/zm/zm_nightmare.d3dbsp
+gfx_map,maps/zm/zm_nightmare.d3dbsp
+
+// Audio
+sound,zm_nightmare
+
+// FX
+fx,zombie/fx_ritual_barrier_defend_door_wide_zod_zmb
+
+// Custom box weapons
+stringtable,gamedata/weapons/zm/zm_nightmare_weapons.csv
+
+scriptparsetree,scripts/zm/zm_nightmare.gsc
+scriptparsetree,scripts/zm/zm_nightmare.csc
+scriptparsetree,scripts/zm/zm_custom_power.gsc
+scriptparsetree,scripts/zm/zm_zombie_death.gsc
+scriptparsetree,scripts/zm/zm_soulboxes.gsc
+scriptparsetree,scripts/zm/zm_usermap.gsc
+scriptparsetree,scripts/zm/zm_elevator.gsc
+scriptparsetree,scripts/zm/_zm_powerup_strange_idol.gsc
+scriptparsetree,scripts/zm/_zm_powerup_strange_idol.csc
+scriptparsetree,scripts/zm/_zm_altar_bonus_points.gsc
+scriptparsetree,scripts/zm/_zm_altar_double_points.gsc
+scriptparsetree,scripts/zm/_zm_altar_full_ammo.gsc
+scriptparsetree,scripts/zm/_zm_altar_insta_kill.gsc
+scriptparsetree,scripts/zm/_zm_altar_strange_idol.gsc

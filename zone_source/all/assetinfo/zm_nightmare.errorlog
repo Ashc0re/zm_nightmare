@@ -1,0 +1,12 @@
+return 4001000
+^1ERROR: Prefab '_prefabs/program115/mystery_boxes/box_stand.map' not found
+  col_map:maps/zm/zm_nightmare.d3dbsp
+^1ERROR: Prefab '_prefabs/program115/mystery_boxes/box_stand.map' not found
+  col_map:maps/zm/zm_nightmare.d3dbsp
+^1ERROR: Prefab '_prefabs/program115/mystery_boxes/box_stand.map' not found
+  col_map:maps/zm/zm_nightmare.d3dbsp
+^1ERROR: Prefab '_prefabs/program115/mystery_boxes/box_stand.map' not found
+  col_map:maps/zm/zm_nightmare.d3dbsp
+^3WARNING: "zmcore_bgb_machine" is not a valid zbarrier
+  zbarrier:zmcore_bgb_machine
+    col_map:maps/zm/zm_nightmare.d3dbsp
